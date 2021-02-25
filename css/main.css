@@ -23,11 +23,12 @@ header {
 }
 
 header h1 {
-  margin-left: .5em;
+  /* align-self: center; */
+  margin-left: -5em;
 }
 
 header p {
-  align-self: center;
+  /* align-self: center; */
 }
 
 header img {
@@ -42,6 +43,7 @@ nav ul {
 
 li {
   margin: .5rem;
+  padding-left: 1em;
 }
 
 nav a {
